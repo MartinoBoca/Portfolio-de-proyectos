@@ -71,6 +71,3 @@ Por último, si es de tu interés, esta misma carpeta se encuentra el informe re
 
 - R (paquete `Conjoint`)
 - Google Forms
----
-
-Este proyecto demuestra cómo una metodología robusta puede generar insights valiosos para la toma de decisiones estratégicas en marketing y diseño de producto.
