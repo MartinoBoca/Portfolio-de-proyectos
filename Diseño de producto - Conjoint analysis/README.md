@@ -66,8 +66,6 @@ Este análisis muestra cómo las técnicas de Conjoint Analysis pueden ser utili
 
 - R (paquete `Conjoint`)
 - Google Forms
-- Python (análisis complementario)
-
 ---
 
 Este proyecto demuestra cómo una metodología robusta puede generar insights valiosos para la toma de decisiones estratégicas en marketing y diseño de producto.
