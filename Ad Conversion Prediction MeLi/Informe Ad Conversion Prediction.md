@@ -1,12 +1,4 @@
-# Informe de Trabajo Práctico: Minería de Datos
-
-### Grupo: “M&Analytics”
-**Integrantes**: Boca Martino y Ruiz Pozo Alexander  
-**Programa**: Master in Management & Analytics  
-**Universidad**: Universidad Torcuato Di Tella  
-**Asignatura**: Minería de Datos  
-**Profesores**: Ramiro Galvez, Lucas Soulés, Julieta De Antonio  
-**Fecha**: 23/7/2024  
+# Informe de trabajo: Ad conversion prediction Mercado Libre
 
 ---
 
