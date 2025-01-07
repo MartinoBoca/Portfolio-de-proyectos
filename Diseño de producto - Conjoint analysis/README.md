@@ -37,9 +37,10 @@ Los atributos seleccionados y sus niveles son los siguientes:
 
 3. **Disposición a Pagar (WTP)**:
    - Fórmula utilizada:
-     \[
-     WTP = \frac{\text{Dif. utilidades del mejor atributo}}{\text{Dif. utilidades del precio}} \times \text{Dif. monetaria en ARS}
-     \]
+      $$
+         WTP = \frac{\text{Dif. utilidades del mejor atributo}}{\text{Dif. utilidades del precio}}       \times\text{Dif. monetaria en ARS}
+      $$
+
    - Los resultados indicaron una baja significancia del precio como atributo relevante.
 
 4. **Segmentación del Mercado**:
