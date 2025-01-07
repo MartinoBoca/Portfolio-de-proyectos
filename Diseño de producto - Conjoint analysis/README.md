@@ -1,6 +1,6 @@
 # Proyecto: Análisis Conjoint para Smart TVs
 
-Este proyecto forma parte de un análisis realizado en el marco de la asignatura "Ventas & Marketing" del programa Master in Management & Analytics en la Universidad Torcuato Di Tella. El objetivo es evaluar las preferencias de los consumidores hacia Smart TVs, incluyendo atributos tradicionales e innovadores, como un difusor aromático dinámico.
+Este proyecto formó parte de un análisis que realicé en el marco de la asignatura "Ventas & Marketing" del programa Master in Management & Analytics en la Universidad Torcuato Di Tella. El objetivo es evaluar las preferencias de los consumidores hacia Smart TVs, incluyendo atributos tradicionales e innovadores, como un difusor aromático dinámico.
 
 ## Objetivo del Proyecto
 
@@ -8,7 +8,7 @@ El objetivo principal es identificar las preferencias de los consumidores y su d
 
 ## Atributos y Niveles
 
-Los atributos seleccionados y sus niveles son los siguientes:
+Los atributos seleccionados y sus niveles correspondientes son los siguientes:
 
 1. **Tamaño**: 42” (base), 55”, 65”, 72”.
 2. **Resolución**: 1080p (base), 4K, 8K.
@@ -36,10 +36,11 @@ Los atributos seleccionados y sus niveles son los siguientes:
    - Se identificó el atributo más relevante para cada usuario.
 
 3. **Disposición a Pagar (WTP)**:
-   - Fórmula utilizada:
-     \[
-     WTP = \frac{\text{Dif. utilidades del mejor atributo}}{\text{Dif. utilidades del precio}} \times \text{Dif. monetaria en ARS}
-     \]
+   
+      $$
+WTP = \frac{\text{Dif. utilidades del mejor atributo}}{\text{Dif. utilidades del precio}}   \times\text{Dif. monetaria en ARS}
+      $$
+
    - Los resultados indicaron una baja significancia del precio como atributo relevante.
 
 4. **Segmentación del Mercado**:
@@ -60,7 +61,11 @@ Los atributos seleccionados y sus niveles son los siguientes:
 
 ## Conclusión
 
-Este análisis muestra cómo las técnicas de Conjoint Analysis pueden ser utilizadas para entender las preferencias de los consumidores y desarrollar productos adaptados a sus necesidades. La inclusión de un atributo innovador como el difusor aromático destaca el potencial de ofrecer experiencias inmersivas en el hogar.
+Este análisis muestra cómo las técnicas de Conjoint Analysis pueden ser utilizadas para entender las preferencias de los consumidores y desarrollar productos adaptados a sus necesidades. La inclusión de un atributo innovador como el difusor aromático destaca el potencial de ofrecer experiencias inmersivas en el hogar. 
+
+## Informe más exhaustivo
+
+Por último, si es de tu interés, esta misma carpeta se encuentra el informe realizado y sus resultados con mayor rigurosidad en formato pdf.
 
 ## Tecnologías Utilizadas
 
