@@ -3,7 +3,7 @@
 ---
 
 ## Introducción
-El trabajo analiza un dataset con 36,152 observaciones correspondientes a impresiones en anuncios de Mercado Libre y 58 variables. En este problema de clasificación binaria se busca optimizar la predicción de conversiones a partir de un modelo de aprendizaje automático, priorizando la transformación de datos mediante técnicas de ingeniería de atributos y un sistema de validación robusto.
+El trabajo analiza un dataset con 36,152 observaciones correspondientes a impresiones en anuncios de Mercado Libre y 58 variables. En este problema de clasificación binaria se busca optimizar la predicción de conversiones de los usuarios que interactuaron con un anuncio, a partir de un modelo de aprendizaje automático, priorizando la transformación de datos mediante técnicas de ingeniería de atributos y un sistema de validación robusto.
 
 ---
 
