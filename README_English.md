@@ -80,6 +80,6 @@ Here you'll find real-world projects where I blend data, machine learning, and a
 ---
 
 📫 **Let’s chat!**  
-👉 [LinkedIn](https://linkedin.com/in/yourprofile) | 📧 hello@yourdomain.com | 💻 [GitHub](https://github.com/yourprofile)  
+👉 [LinkedIn](https://linkedin.com/in/martinoboca) | 📧 bocamartino1201@gmail.com | 💻 [GitHub](https://github.com/MartinoBoca/Portfolio-de-proyectos)  
 
 *If you made it this far, you’ve got the patience of a saint 🏅! Thanks for checking out my work.* 😄  
