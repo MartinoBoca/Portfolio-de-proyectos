@@ -45,16 +45,17 @@ Here you'll find real-world projects where I blend data, machine learning, and a
 
 ---
 
-### 5. 📈 **Retail Sales Forecasting**  
-*"Predicting the future of European stores"*  
-- Analyzed a 1M+ record dataset (2013-2015) to forecast sales 6 weeks ahead 🧙♂️.  
-- Time series models that challenge managers’ "gut feelings" 👔.  
+### 5. 📈 **Retail Sales Prediction: Data vs. Intuition**  
+*"Forecasts that optimize stock and maximize profits in Europe"* 💰🛒  
+
+- Analyzed a **1M+ record dataset** (2013-2015) to predict sales for the next 6 weeks 🧙♂️.  
+- Built time series models that challenge managers’ "gut feelings" 👔.  
 - *Key metric*: RMSPE (Root Mean Square Percentage Error) lower than a Wall Street trader’s ego 📉.  
 - *Real impact*: Reduced dead stock and improved product turnover 🚀.  
 
 ---
 
-### 6. 🌐 **Decentralized Social Media (Thesis Project)**  
+### 6. 🌐 **Decentralized Social Media (Bachelor's Thesis Project)**  
 *"Blockchain, privacy, and the future of social networks"*  
 - Theoretical analysis of decentralized platforms vs. giants like Facebook/Meta.  
 - Explored emerging tech (Web3, DAOs, NFTs).  
