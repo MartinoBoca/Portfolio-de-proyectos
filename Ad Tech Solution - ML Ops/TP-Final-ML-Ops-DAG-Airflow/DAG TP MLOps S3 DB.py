@@ -164,8 +164,6 @@ bucket_name = 'grupo-15-mlops-bucket'
 # Crear cliente S3 usando credenciales
 s3_client = boto3.client(
     's3',
-    aws_access_key_id='AKIAVY2PG64LY7U654ST',
-    aws_secret_access_key='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',
     region_name='us-east-1'
 )
 
