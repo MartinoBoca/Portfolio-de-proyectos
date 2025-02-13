@@ -45,11 +45,13 @@ Acá vas a encontrar proyectos reales donde mezclo datos, machine learning y un 
 
 ---
 
-### 5. 📊 **Forecasting de Ventas Minoristas (Retail)**  
-*"Prediciendo el futuro de las tiendas europeas"*  
-- Dataset de +1 millón de registros (2013-2015) para predecir ventas a 6 semanas 🧐.  
-- Modelos de series temporales y optimización de stock.  
-- *Métrica clave*: RMSPE (Root Mean Square Percentage Error) bajo como un susurro 🔮.  
+### 5. 📈 **Predicción de Ventas para Retail: Datos vs. Intuición**  
+*"Pronósticos que optimizan stock y maximizan ganancias en Europa"* 💰🛒  
+
+- Dataset de +1 millón de registros (2013-2015) para predecir ventas a 6 semanas 🧙♂️.  
+- Modelos de series temporales que desafían el "ojo clínico" del gerente 👔.  
+- *Métrica clave*: RMSPE (Error Cuadrático Medio Porcentual) 📉.  
+- *Impacto real*: Reducción de stock muerto y mejora en la rotación de productos 🚀.  
 
 ---
 
