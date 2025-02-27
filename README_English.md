@@ -3,7 +3,7 @@
 
 ---
 
-### 👋 Hey there, recruiter! What's up?  
+### 👋 Hey there! What's up?  
 Here you'll find real-world projects where I blend data, machine learning, and a bit of magic 🎩 (okay, mostly code). From predicting sales to figuring out why your uncle bought that weird-smart TV, there's a bit of everything. Let's dive into the highlights!  
 
 ---
