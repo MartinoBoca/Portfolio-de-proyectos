@@ -64,11 +64,11 @@ Acá vas a encontrar proyectos reales donde mezclo datos, machine learning y un 
 ---
 
 ## 🛠️ Tech Stack Favorito  
-- **Lenguajes**: 🐍 Python (90%) | R (10% para nostalgia)  
+- **Lenguajes**: 🐍 Python | R | SQL | DAX  
 - **Cloud & ML**: AWS (EC2, S3, RDS) | Docker | Airflow | Scikit-Learn  
 - **Visualización**: Power BI | Matplotlib/Seaborn | Tableau  
 - **Bases de Datos**: PostgreSQL | MySQL | SQLite  
-- **Herramientas**: Git | Jupyter | Excel (sí, Excel 😅)  
+- **Herramientas**: Git | Jupyter | Excel  
 
 ---
 
