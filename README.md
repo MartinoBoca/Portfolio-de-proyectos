@@ -73,7 +73,7 @@ Acá vas a encontrar proyectos reales donde mezclo datos, machine learning y un 
 ---
 
 ## 🧉 ¿Por qué contratarme?  
-- **Resuelvo problemas reales**: No solo hago modelos bonitos, sino que priorizo el *impacto business*.  
+- **Resuelvo problemas reales**: No solo hago modelos bonitos, sino que priorizo el *impacto en el negocio*.  
 - **Aprendo rápido**: Si no sé algo, Google + Stack Overflow son mis aliados 🦸.  
 - **Trabajo en equipo**: Me adapto a equipos remotos, híbridos o de mateadas intensas 🧉.  
 
